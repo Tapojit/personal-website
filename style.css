@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css?family=Lora");
+nav {
+  background-color: #558C89; }
+
+.navbar .navbar-brand {
+  color: #c4dddc !important; }
+.navbar .dropdown-toggle {
+  color: #c4dddc !important; }
+
+.dropdown:focus {
+  outline: none; }
+
+#about {
+  color: white !important; }
+
+.navbar-toggler {
+  background-color: white; }
+
+body {
+  padding-top: 70px; }
+
+h2 {
+  text-align: center; }
+
+.word-wrap {
+  word-wrap: break-word; }
+
+img {
+  border-radius: 10px;
+  padding-bottom: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+.space {
+  padding-bottom: 50px; }
+
+pre {
+  color: white;
+  background-color: #373737;
+  border-radius: 10px; }
+
+p {
+  font-family: 'Lora', serif; }
+
+body {
+  background-color: #F4F4F4 !important; }
+
+.dropdown-menu {
+  background-color: #D9853B; }
+  .dropdown-menu a {
+    color: white; }
+
+/*# sourceMappingURL=style.css.map */
