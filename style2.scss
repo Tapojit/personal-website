@@ -86,8 +86,11 @@ body{
 	font-family: 'Ubuntu', sans-serif;
 	margin-top: 40px;
 	text-align: center;
+	h3{
+		margin-top: 30px;
+	}
 	ul{
-		margin-top: 20px;
+		margin-top: 30px;
 		li{
 			display: inline;
 			img{
@@ -101,5 +104,5 @@ body{
 		}
 
 	}
-	margin-bottom: 50px;
+	padding-bottom: 50px;
 }

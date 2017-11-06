@@ -68,9 +68,11 @@ body {
   font-family: 'Ubuntu', sans-serif;
   margin-top: 40px;
   text-align: center;
-  margin-bottom: 50px; }
+  padding-bottom: 50px; }
+  #content2 h3 {
+    margin-top: 30px; }
   #content2 ul {
-    margin-top: 20px; }
+    margin-top: 30px; }
     #content2 ul li {
       display: inline; }
       #content2 ul li img {
