@@ -80,10 +80,26 @@ body{
 	}
 }
 #content2{
-	
+	background-color: #79CDCD;
 	margin-left: auto;
-	color: black;
+	color: white;
 	font-family: 'Ubuntu', sans-serif;
 	margin-top: 40px;
 	text-align: center;
+	ul{
+		margin-top: 20px;
+		li{
+			display: inline;
+			img{
+				width: 4em;
+				height: 4em;
+			}
+			#clj{
+				width: 7em;
+				height: 4em;
+				}
+		}
+
+	}
+	margin-bottom: 50px;
 }
