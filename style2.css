@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Lato");
 @import url("https://fonts.googleapis.com/css?family=Abril+Fatface");
+@import url("https://fonts.googleapis.com/css?family=Ubuntu");
 #img1 {
   width: 100%;
   height: 350px;
@@ -51,5 +52,20 @@ body {
   background-color: #D9853B; }
   .dropdown-menu a {
     color: white; }
+
+#content1 {
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  font-family: 'Ubuntu', sans-serif; }
+  #content1 .col-md-4 {
+    margin-top: 20px; }
+
+#content2 {
+  margin-left: auto;
+  color: black;
+  font-family: 'Ubuntu', sans-serif;
+  margin-top: 40px;
+  text-align: center; }
 
 /*# sourceMappingURL=style2.css.map */
